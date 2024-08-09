@@ -1,0 +1,23 @@
+.basketSection {
+    position: relative;
+}
+
+.basketLogo {
+    position: relative;
+    width: 25px;
+    cursor: pointer;
+}
+
+.basketQuntity {
+    position: absolute;
+    right: -15px;
+    top: -15px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: cyan;
+    line-height: 20px;
+    text-align: center; 
+    font-size: 14px;
+    border: 1px solid #000;
+}
